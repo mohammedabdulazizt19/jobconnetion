@@ -1,0 +1,29 @@
+[08-Jan-2022 21:02:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php on line 26
+[09-Jan-2022 06:00:39 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/get_oauth_token.php on line 15
+[09-Jan-2022 06:00:39 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/get_oauth_token.php on line 15
+[09-Jan-2022 06:00:39 America/New_York] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/get_oauth_token.php on line 15
+[09-Jan-2022 12:18:16 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/PHPMailerAutoload.php on line 45
+[10-Jan-2022 04:47:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php on line 26
+[10-Jan-2022 07:13:05 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/PHPMailerAutoload.php on line 45
+[10-Jan-2022 15:14:18 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/get_oauth_token.php on line 15
+[10-Jan-2022 15:14:18 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/get_oauth_token.php on line 15
+[10-Jan-2022 15:14:18 America/New_York] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/get_oauth_token.php on line 15
+[15-Jan-2022 04:52:15 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/PHPMailerAutoload.php on line 45
+[15-Jan-2022 08:08:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php on line 26
+[23-Jan-2022 06:54:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php on line 26
+[28-Jan-2022 22:48:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPMailer/class.phpmaileroauth.php on line 26

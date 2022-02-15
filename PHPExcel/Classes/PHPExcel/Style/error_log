@@ -1,0 +1,44 @@
+[18-Jan-2022 15:29:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Borders.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Borders.php on line 28
+[20-Jan-2022 06:22:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Border.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Border.php on line 28
+[23-Jan-2022 08:08:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Font.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Font.php on line 28
+[25-Jan-2022 16:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Color.php on line 28
+[27-Jan-2022 23:38:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Borders.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Borders.php on line 28
+[28-Jan-2022 07:55:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Border.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Border.php on line 28
+[28-Jan-2022 13:06:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Font.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Font.php on line 28
+[31-Jan-2022 03:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Color.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Color.php on line 28
+[01-Feb-2022 02:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Protection.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Protection.php on line 28
+[02-Feb-2022 07:40:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPExcel_IComparable' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Conditional.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Conditional.php on line 36
+[04-Feb-2022 23:13:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Style_Supervisor' not found in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Font.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/urafnghd/thejobconnections.com/Jobscon/PHPExcel/Classes/PHPExcel/Style/Font.php on line 28

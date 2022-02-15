@@ -1,0 +1,14 @@
+xamarin studio- xamarin studio is buikt in using .NET framework
+allows one pplication to run in many platform.
+-can build native aps without knowing swift  and objective c
+
+software needed:
+>jdk 6 and up
+>android sdk
+>android ndk
+>gtk
+>xamarin android/ ios/ studio
+
+tools>option>browse sdk and jdk
+
+ASSIGNMENT== interface(drawing sa lab gagawin ng hands on)
