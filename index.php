@@ -48,7 +48,7 @@
         </div>
         <div class="container-fluid flash animated" style="background-color:rgb(242,40,39);margin-top:0px;margin-bottom:15px;">
             <h2 class="text-center" data-aos="zoom-in" style="color:rgb(255,255,255);">THE JOBCONNECTIONS INTERNATIONAL MANPOWER SERVICES, INC.<br></h2>
-            <h3 class="text-center" data-aos="zoom-in" style="color:rgb(255,255,255);">POEA License no.: 001-LB-012721-U    L&nbsp;</h3>
+            <h3 class="text-center" data-aos="zoom-in" style="color:rgb(255,255,255);">POEA License no.: 037-LB-042221-R</h3>
         </div>
         <section>
             <div class="container">
