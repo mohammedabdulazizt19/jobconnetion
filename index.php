@@ -39,7 +39,7 @@
                                 <li
                                     class="nav-item" role="presentation"><a class="nav-link" href="#contact-us" data-bs-hover-animate="pulse" style="color:rgb(66,40,112);"><i class="icon-phone" style="color:rgb(242,40,39);"></i><strong>&nbsp; Contact Us</strong></a></li>
 
-                                <a href="https://tabang.yaramay.tech/login" button type="button" class="btn btn-danger">Log In</button></a>
+                                <a href="http://access.poloksa-ph.com/login-view/eyJpdiI6IjZUOEgwRTFzY1pBZ2NhM1IwZ05LRkE9PSIsInZhbHVlIjoiNUJOOXRNMGJmSWUwdm9TeXBKVDNUQT09IiwibWFjIjoiZDk0MWUzOGNkNjAyYjc2NWEwZmM3ZDM4YzcwMzA3MDdlZDcxZTYyYzMzODA0NWE0YjMwODAyODViOGQ2YTE5YiIsInRhZyI6IiJ9?fbclid=IwAR0P5r-57cprZdg7XmAIfO_fmCUn13VIjQjE9V_Id97ejF8wUxh4rRY8buk" button type="button" class="btn btn-danger">Log In</button></a>
 
                         </ul>
                     </div>
