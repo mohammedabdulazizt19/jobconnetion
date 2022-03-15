@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Job Connections </title>
+    <meta name="description" content="THE JOBCONNECTIONS INTERNATIONAL MANPOWER SERVICES, INC.">
+    <title>THE JOBCONNECTIONS INTERNATIONAL MANPOWER SERVICES, INC.</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
@@ -39,7 +40,7 @@
                                 <li
                                     class="nav-item" role="presentation"><a class="nav-link" href="#contact-us" data-bs-hover-animate="pulse" style="color:rgb(66,40,112);"><i class="icon-phone" style="color:rgb(242,40,39);"></i><strong>&nbsp; Contact Us</strong></a></li>
 
-                                <a href="https://tabang.yaramay.tech/login" button type="button" class="btn btn-danger">Log In</button></a>
+                                <a href="https://bit.ly/3CG4LH2" button type="button" class="btn btn-danger">Log In</button></a>
 
                         </ul>
                     </div>
@@ -55,7 +56,7 @@
                 <div>
                     <div class="row d-flex float-none" style="margin-top:30px;margin-bottom:50px;">
                         <div class="col-auto m-auto" style="margin-bottom:0px;">
-                            <div class="card pulse animated" style="width:300px;"><img class="card-img-top w-100 d-block" src="assets/img/JobConGlobe.gif"></div>
+                            <div class="card pulse animated" style="width:300px;"><img class="card-img-top w-100 d-block" src="assets/img/JobConGlobe.gif" alt="JobConnections"></div>
                         </div>
                         <div class="col d-flex align-self-end m-auto" style="width:auto;">
                             <div class="card m-auto pulse animated" style="width:772px;">
@@ -184,14 +185,14 @@
                     <div class="col m-auto flex-xl-row">
                         <div class="card" style="margin-bottom:15px;">
                             <div class="card-body">
-                                <h1 class="text-center card-title" data-aos="fade-down">Mission</h1><img class="img-fluid d-flex m-auto" src="assets/img/mission2.png" alt="Mission" data-aos="fade-right" style="width:300px;height:300px;">
+                                <h1 class="text-center card-title" data-aos="fade-down">Mission</h1><img class="img-fluid d-flex m-auto" src="assets/img/mission2.png" alt="Mission to provide assistance for qualified applicants" data-aos="fade-right" style="width:300px;height:300px;">
                                 <p class="lead text-justify card-text" data-aos="zoom-in"><br>Our mission is to provide assistance for qualified applicants to be deployed overseas with an intention to help uplift their lives and their families and the society as a whole by providing the best remuneration package
                                     commensurate to their skills and qualifications.<br><br></p>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-body" style="margin-top:15px;">
-                                <h1 class="text-center card-title" data-aos="fade-down">Vision</h1><img class="img-fluid d-flex m-auto" src="assets/img/vision.jpg" alt="vision" data-aos="fade-right" style="width:300px;height:300px;">
+                                <h1 class="text-center card-title" data-aos="fade-down">Vision</h1><img class="img-fluid d-flex m-auto" src="assets/img/vision.jpg" alt="Vision to provide attractive returns to every deserving applicants" data-aos="fade-right" style="width:300px;height:300px;">
                                 <p class="lead text-justify card-text" data-aos="zoom-in"><br>To be recognized as the leading recruitment agency noted for its dedication and obligation to provide attractive returns to every deserving applicants, thereby making every individual’s life better and happier.<br><br></p>
                             </div>
                         </div>
@@ -199,17 +200,17 @@
                 </div>
                 <div class="row">
                     <div class="col">
-                        <div class="card" style="margin-top:15px;"><img class="img-fluid card-img-top w-100 d-block d-flex" src="assets/img/bg carousel sample.jpg" data-aos="zoom-in" style="margin-top:0px;"></div>
+                        <div class="card" style="margin-top:15px;"><img class="img-fluid card-img-top w-100 d-block d-flex" src="assets/img/bg carousel sample.jpg" data-aos="zoom-in" style="margin-top:0px;" alt="Job Connections investing in people"></div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col">
-                        <div class="card" style="margin-top:15px;"><img class="img-fluid card-img-top w-100 d-block d-flex" src="assets/img/Jobcon-Pics-001-836x1024.jpg" data-aos="zoom-in" style="margin-top:0px;"></div>
+                        <div class="card" style="margin-top:15px;"><img class="img-fluid card-img-top w-100 d-block d-flex" src="assets/img/Jobcon-Pics-001-836x1024.jpg" data-aos="zoom-in" style="margin-top:0px;" alt="Job Connection international manpower Office"></div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col">
-                        <div class="card" style="margin-top:15px;"><img class="img-fluid card-img-top w-100 d-block d-flex" src="assets/img/Jobcon333-0011111-731x1024.jpg" data-aos="zoom-in" style="margin-top:0px;"></div>
+                        <div class="card" style="margin-top:15px;"><img class="img-fluid card-img-top w-100 d-block d-flex" src="assets/img/Jobcon333-0011111-731x1024.jpg" data-aos="zoom-in" style="margin-top:0px;" alt="Job Connection international manpower vision"></div>
                     </div>
                 </div>
             </div>
@@ -225,7 +226,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="text-center card-title" data-aos="fade-right"><strong><em>SOURCING OF MANPOWER SUPPLY:</em></strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/sourcing.png" alt="sourcing" data-aos="zoom-in">
+                                        <h4 class="text-center card-title" data-aos="fade-right"><strong><em>SOURCING OF MANPOWER SUPPLY:</em></strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/sourcing.png" alt="sourcing of manpower" data-aos="zoom-in">
                                         <p class="text-justify card-text" data-aos="fade-up"><br>Based from the job orders from our principal’s, we initiate pooling names of qualified candidates through our computerized data bank. We also pool needed workforce through channels, i.e. print and TV ads, website/
                                             Facebook Fan Page online applicants, job fairs, referrals and through agents. Should there be an insufficient amount of applicants, we will further conduct authorized. Special Recruitment Activity in the provinces
                                             in order to gather and ensure that we have sufficient candidates for each category.<br>Other possible sources of manpower supply:<br>• Walk – in applications<br>• Distribution of flyers<br>• Word of mouth advertisement
@@ -236,7 +237,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:684.844px;">
-                                        <h4 class="text-center card-title" data-aos="fade-left"><strong>SELECTION OF QUALIFIED CANDIDATES:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/selection.jpg" alt="selection" data-aos="zoom-in">
+                                        <h4 class="text-center card-title" data-aos="fade-left"><strong>SELECTION OF QUALIFIED CANDIDATES:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/selection.jpg" alt="selection of qualified candidates" data-aos="zoom-in">
                                         <p class="text-justify card-text" data-aos="fade-up"><br>The recruitment officer conducts the pre – screening of candidates. Only those who are qualified will be endorsed to the employer by the Project Coordinators/HR for final interview and approval. In coordination
                                             with the representative to the Philippines of our principal, we will solicit their participation in the final interview. If this is not possible physically, we will send all qualified applicants their resume
                                             and communicate with the principal through email and telephone for final approval.<br><br></p>
@@ -248,7 +249,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:670px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-in"><strong>FULLY DOCUMENTATION ASSISTANCE FOR SELECTED CANDIDATES:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/documentation.jpg" alt="documentation" data-aos="flip-up">
+                                        <h4 class="text-center card-title" data-aos="zoom-in"><strong>FULLY DOCUMENTATION ASSISTANCE FOR SELECTED CANDIDATES:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/documentation.jpg" alt="Documentation assistance for selected candidates" data-aos="flip-up">
                                         <p class="text-justify card-text"
                                             data-aos="zoom-in-up"><br>We provide the selected applicants assistance in securing the travel documents required by the Labor Office and the Embassy, like, Trade Test/ NCII Trainings, Authenticated Credentials, Passport, Medical Certificate,
                                             Overseas Employment Certificate (OEC) issued by POEA and Exit Pass. This will also include the Pre-Departure Orientation Seminar (PDOS) wherein the workers will undergo a comprehensive briefing on the working
@@ -259,7 +260,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:670px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-in"><strong>PERIODIC PROGRESS REPORT:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/report.jpg" alt="report" data-aos="flip-up">
+                                        <h4 class="text-center card-title" data-aos="zoom-in"><strong>PERIODIC PROGRESS REPORT:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/report.jpg" alt="Periodic progress report" data-aos="flip-up">
                                         <p class="text-justify card-text" data-aos="zoom-in-up" style="height:384px;"><br>Update report of the status of the travel papers of the workers shall be transmitted to the Employer regularly. Flight details/tickets shall be furnished 5 to 7 days prior or before the departure to ensure that
                                             the documents of the workers are ready as well as the preparation of the employer for the arriving staffs. &nbsp;<strong>&nbsp;</strong><br><br></p>
                                     </div>
@@ -268,7 +269,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:670px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-in"><strong>MOBILIZATION AND REPATRIATION:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/repatriation.jpg" alt="repartriation" data-aos="flip-up">
+                                        <h4 class="text-center card-title" data-aos="zoom-in"><strong>MOBILIZATION AND REPATRIATION:</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/repatriation.jpg" alt="Mobilization and Repartriation" data-aos="flip-up">
                                         <p class="text-justify card-text" data-aos="zoom-in-up"
                                             style="height:354px;"><br>The Job Connections International Manpower Services, Inc., has a primary duty of sending only the well selected and competent applicants in order to meet the job requirements of our beloved Clients/Employers.
                                             However, there are causes beyond the contract workers may be repatriated. Within three (3) months probationary period, our company guarantees the worker’s capability primarily their Physical, Mental, and Technical-know-how.<br><br></p>
@@ -291,7 +292,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:510px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>OFFICE PERSONNEL</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/1.png" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>OFFICE PERSONNEL</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/1.png" alt="Office personnel" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Accountant</li>
                                             <li>Marketing Personnel</li>
@@ -308,7 +309,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:510px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>COMMERCIAL FIRMS</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/2.png" alt="commercial-firms" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>COMMERCIAL FIRMS</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/2.png" alt="Commercial-firms" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Cameramen<br></li>
                                             <li>Computer Operator<br></li>
@@ -346,7 +347,7 @@
                             <div class="col">
                                 <div class="card" style="height:510px;">
                                     <div class="card-body">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>CONSTRUCTION WORKERS</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/4.jpg" alt="sourcing" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>CONSTRUCTION WORKERS</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/4.jpg" alt="contruction workers" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Engineer<br></li>
                                             <li>Welder<br></li>
@@ -362,7 +363,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:510px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>HOUSEHOLD WORKERS</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/32.png" alt="sourcing" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>HOUSEHOLD WORKERS</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/32.png" alt="Household workers" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Domestic helper<br></li>
                                             <li>Baby sitter<br></li>
@@ -376,7 +377,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:510px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>MEDICAL STAFF</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/42.png" alt="sourcing" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>MEDICAL STAFF</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/42.png" alt="Medical staff" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Nurses<br></li>
                                             <li>Midwife<br></li>
@@ -390,7 +391,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:540px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>HEALTH CARE</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/kisspng-primary-care-physician-specialty-clinic-medicine-vector-female-doctor-5a81918b2ed7f8.3007516215184408431919.png" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>HEALTH CARE</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/kisspng-primary-care-physician-specialty-clinic-medicine-vector-female-doctor-5a81918b2ed7f8.3007516215184408431919.png" alt="Health care" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Nurses/ Nursing Aide<br></li>
                                             <li>Doctors<br></li>
@@ -406,7 +407,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:540px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>EDUCATION/TRAINING</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/teacher_blackboard.png" data-aos="zoom-out" style="width:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>EDUCATION/TRAINING</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/teacher_blackboard.png" alt="Education/Training" data-aos="zoom-out" style="width:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Teachers both Elementary, Secondary and College<br></li>
                                             <li>Lecturer<br></li>
@@ -419,7 +420,7 @@
                             <div class="col">
                                 <div class="card">
                                     <div class="card-body" style="height:540px;">
-                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>We can also supply workers for the following Industries</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/download.png" alt="sourcing" data-aos="zoom-out" style="height:200px;">
+                                        <h4 class="text-center card-title" data-aos="zoom-out-up"><strong>We can also supply workers for the following Industries</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/download.png" alt="Supply workers for the following Industires" data-aos="zoom-out" style="height:200px;">
                                         <ul data-aos="fade-up">
                                             <li>Airports<br></li>
                                             <li>Manufacturing Factories<br></li>
@@ -461,7 +462,7 @@
                                         <div class="card-group">
                                             <div class="card">
                                                 <div class="card-body">
-                                                    <h4 class="text-center card-title" data-aos="zoom-in"><strong>Quality – Policy System</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/quality.png" data-aos="zoom-in" style="width:150px;height:150px;">
+                                                    <h4 class="text-center card-title" data-aos="zoom-in"><strong>Quality – Policy System</strong><br></h4><img class="img-fluid d-flex m-auto" src="assets/img/quality.png" alt="Quality - Policy System" data-aos="zoom-in" style="width:150px;height:150px;">
                                                     <ul data-aos="fade-up-right">
                                                         <li>Ensures that the clients/ principal requirements are fully understood and meet the job specification.<br></li>
                                                         <li>Conducts pre-screening and employment background checking.<br></li>
@@ -474,7 +475,7 @@
                                             </div>
                                             <div class="card">
                                                 <div class="card-body">
-                                                    <h4 class="text-center card-title" data-aos="zoom-in"><strong>Multiple – Strategic System</strong><br></h4><img class="d-flex m-auto" src="assets/img/strategy.png" data-aos="zoom-in" style="width:150px;height:150px;">
+                                                    <h4 class="text-center card-title" data-aos="zoom-in"><strong>Multiple – Strategic System</strong><br></h4><img class="d-flex m-auto" src="assets/img/strategy.png" alt="Multiple - Strategic System" data-aos="zoom-in" style="width:150px;height:150px;">
                                                     <h5 data-aos="zoom-out">&gt; We apply different strategy in sourcing possible candidates.<br></h5>
                                                     <ul data-aos="fade-up">
                                                         <li>Advertisement in leading newspapers<br></li>
@@ -491,7 +492,7 @@
                                             </div>
                                             <div class="card">
                                                 <div class="card-body">
-                                                    <h4 class="text-center card-title" data-aos="zoom-in"><strong>Competitive – Rates System</strong><br></h4><img class="d-flex m-auto" src="assets/img/competitive.png" data-aos="zoom-in" style="width:150px;height:150px;">
+                                                    <h4 class="text-center card-title" data-aos="zoom-in"><strong>Competitive – Rates System</strong><br></h4><img class="d-flex m-auto" src="assets/img/competitive.png" alt="Competitive - Rates System" data-aos="zoom-in" style="width:150px;height:150px;">
                                                     <ul data-aos="fade-left">
                                                         <li>We offer our services at reasonable cost<br></li>
                                                         <li>We are open for negotiation for the terms of payment/Services Fee.<br></li>
@@ -520,25 +521,27 @@
                         <div class="card-group">
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="text-center card-title" data-aos="zoom-in">Email</h4><img class="img-fluid d-flex m-auto" src="assets/img/email.png" alt="Email" data-aos="fade-up">
+                                    <h4 class="text-center card-title" data-aos="zoom-in">Email</h4><img class="img-fluid d-flex m-auto" src="assets/img/email.png" alt="job_connections@yahoo.com" data-aos="fade-up">
                                     <p class="lead text-center card-text" data-aos="zoom-in-up" style="font-size:18px;"><br>job_connections@yahoo.com<br><br></p>
                                 </div>
                             </div>
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="text-center card-title" data-aos="zoom-in">Telephone</h4><img class="d-flex m-auto" src="assets/img/telephone.png" alt="telephone" data-aos="fade-up">
+                                    <h4 class="text-center card-title" data-aos="zoom-in">Telephone</h4><img class="d-flex m-auto" src="assets/img/telephone.png" alt="+632 310 8653 / (02) 310 0701" data-aos="fade-up">
                                     <p class="lead text-center card-text" data-aos="zoom-in-up" style="font-size:18px;"><br>+632 310 8653 / (02) 310 0701<br><br></p>
                                 </div>
                             </div>
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="text-center card-title" data-aos="zoom-in">Fax</h4><img class="d-flex m-auto" src="assets/img/fax.png" alt="fax" data-aos="fade-up">
+                                    <h4 class="text-center card-title" data-aos="zoom-in">Fax</h4><img class="d-flex m-auto" src="assets/img/fax.png" alt="+632 310 8653" data-aos="fade-up">
                                     <p class="lead text-center card-text" data-aos="zoom-in-up"><br>+632 310 8653<br><br></p>
                                 </div>
                             </div>
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="text-center card-title" data-aos="zoom-in">Facebook</h4><img class="d-flex m-auto" src="assets/img/facebook.png" alt="facebook" data-aos="fade-up"><a class="card-link" href="https://www.facebook.com/JobCon021LB051817PL/" data-aos="zoom-in-up" style="font-size:19;"><br>https://www.facebook.com/JobCon021LB051817PL/<br><br></a></div>
+                                    <h4 class="text-center card-title" data-aos="zoom-in">Facebook</h4><img class="d-flex m-auto " src="assets/img/facebook.png" alt="facebook" data-aos="fade-up">
+                                        <p class="lead text-center card-link" href="https://www.facebook.com/JobCon021LB051817PL/" data-aos="zoom-in-up" style="font-size:19;"><br>JobConnections<br><br></p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -572,7 +575,7 @@
     </div>
     <div id="footer">
         <footer style="background-color:#ffffff;margin-top:10px;margin-bottom:0px;">
-            <p class="lead text-center" style="font-size:20px;margin-bottom:14px;"><br><i class="fa fa-copyright"></i>&nbsp;Copyright 2021 The Job Connections International Manpower Services, Inc. - All Rights Reserved.<br><br></p>
+            <p class="lead text-center" style="font-size:20px;margin-bottom:14px;"><br><i class="fa fa-copyright"></i>&nbsp;Copyright 2022 The Job Connections International Manpower Services, Inc. - All Rights Reserved.<br><br></p>
         </footer>
     </div>
     <script src="assets/js/jquery.min.js"></script>
